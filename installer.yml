@@ -62,7 +62,7 @@
     - name: Install Celery
       pip:
         name: celery
-        version: 4.0.2
+        version: 4.2.1
 
     - name: Install Celery Beat
       pip:
